@@ -1,10 +1,10 @@
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 <!-- https://gifrun.com/youtube/?v=3RGEYYJmMtU -->
-### Hi, my name is Malys 🤖 !
-#### I'm software architect.
-![I am software architect.](https://malys.github.io/images/banner.gif)
+### ![I am software architect.](https://malys.github.io/images/banner.gif)
 
-Developer by passion. I like technology and science innovation. I have taken care throughout my career to share and transmit my know-how and my knowledge.
+**I'm software architect and developer by passion**.
+I like technology and science innovation. 
+I have taken care throughout my career to share and transmit my know-how and my knowledge.
 
 Skills: Keycloak / PKCS11 / Java / Quarkus / NodeJS
 
